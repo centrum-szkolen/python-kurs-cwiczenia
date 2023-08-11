@@ -1,0 +1,29 @@
+1.
+a = 5
+b = 7
+
+Napisz zmienną result w której dodasz dwie powyższe liczby i pomnożysz je przez 7
+
+2.
+c = 5
+d = 8
+e = 2
+
+Napisz dodatkową zmienną max_num, w której za pomocą odpowiedniej metody wybierzesz największą wśród 3 powyższych liczb
+
+3.
+f = 5
+g = 8
+h = 3
+
+Napisz zmienną avg w której policzysz średnią z 3 powyższych liczb i zaokrąglisz ją do dwóch miejsc po przecinku
+
+4.
+temp = 301.23
+
+Napisz zmienną celsius w której przekonwertujesz powyższą temperaturę na taką w stopniach Celsjusza
+
+5.
+num = 25
+
+Napisz zmienną w której za pomocą odpowiedniej metody z modułu math wyciągniesz pierwiastek z liczby 25
