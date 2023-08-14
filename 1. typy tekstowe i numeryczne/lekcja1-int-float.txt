@@ -21,7 +21,7 @@ Napisz zmienną avg w której policzysz średnią z 3 powyższych liczb i zaokr�
 4.
 temp = 301.23
 
-Napisz zmienną celsius w której przekonwertujesz powyższą temperaturę na taką w stopniach Celsjusza
+Napisz zmienną celsius w której przekonwertujesz powyższą temperaturę w stopniach Kelvina na taką w stopniach Celsjusza
 
 5.
 num = 25
