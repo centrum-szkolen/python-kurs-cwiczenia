@@ -1,0 +1,25 @@
+1.
+Napisz dwie zmienne o nazwie user_role i is_logged
+Następnie przygotuj instrukcję warunkową która sprawdza typ konta zalogowanego użytkownika:
+
+-Jeśli użytkownik jest zalogowany i jest administratorem wyświetlaj napis "Witaj w panelu admina"
+-Jeśli użytkownik jest moderatorem i jest zalogowany wyświetlaj napis "Witaj w panelu moderatora"
+-Jeśli uzytkownik loguje się na zwykłe konto i jest zalogowany wyświetlaj napis "Witaj w panelu użytkownika"
+-W każdym innym przypadku wyświetlaj napis błąd logowania
+
+
+2.
+Prowadzisz sklep, który dostarcza towar jedynie do Polski, Niemiec i Czech
+
+Napisz zmienną o nazwie user_country
+Następnie zaprojektuj instrukcję warunkową która sprawdzi czy kupujący składa zamówienie z któregoś z powyższych krajów, 
+jeśli NIE, wyświetlaj tekst: Dostawa towaru niemożliwa
+
+
+3.
+Spróbuj napisać zmienną, w której za pomocą Pythona umieścisz informacje o aktualnej godzinie
+
+Następnie napisz instrukcję warunkową, która wyświetla powitanie w zależności od pory dnia
+-Między 6 a 12 "Good Morning"
+-Między 12 a 18 "Good Afternoon"
+-Powyżej 18 "Good Evening"

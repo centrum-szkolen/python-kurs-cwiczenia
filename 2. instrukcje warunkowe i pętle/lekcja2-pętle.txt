@@ -1,0 +1,17 @@
+1.
+Napisz dwie zmienne określające liczby parzyste i nieparzyste
+Następnie napisz pętlę for która wykonuje się w zakresie liczby 1,100
+Jeśli aktualna iteracja jest liczbą parzystą zwiększaj o 1
+zmienną z liczbami parzystymi, jeśli jest liczbą nieparzystą zwiękaszj
+zmienną z liczbami nieparzystymi.
+
+2.
+Fizz Buzz to popularna gra, która często jest używana jako zadanie
+w trakcie procesu rekrutacyjnego do pracy jako programista.
+Gra polega na tym, że gracze na zmianę wypowiadają liczby, 
+ale jeśli liczba jest podzielna przez 3, mówią "Fizz", 
+z kolei jeśli jest podzielna przez 5, mówią "Buzz". 
+Jeśli liczba jest podzielna zarówno przez 3, jak i 5, mówią "FizzBuzz"
+
+Za pomocą pętli i instrukcji warunkowych, spróbuj napisać algorytm FizzBuzz
+w którym gracze liczą do liczby 101
