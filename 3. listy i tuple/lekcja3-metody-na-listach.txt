@@ -1,0 +1,21 @@
+1. 
+Stwórz pustą listę i dodaj do niej kilka liczb za pomocą metody append()
+
+2. 
+Użyj odpowiedniej metody do połączenia dwóch poniższych list.
+list1 = [1, 2, 3]
+list2 = [4, 5, 6]
+
+3.
+Z poniższej listy, za pomocą odpowiedniej metody usuń pierwsze wystąpienie cyfry 2
+my_list = [1, 2, 3, 4, 2]
+
+Następnie z tej samej listy usuń ostatni element
+
+4. 
+Z poniższej listy znajdź numer indeksu liczby 40. Wynik przypisz do zmiennej
+my_list = [10, 20, 40, 30, 20]
+
+5.
+Policz za pomocą odpowiedniej metody ilość wystąpień liczby 2 w poniższej liście
+my_list = [1, 2, 2, 3, 2, 4, 2]
