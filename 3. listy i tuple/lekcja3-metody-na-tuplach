@@ -1,0 +1,21 @@
+1.
+Stwórz dowolną tuplę, która zawiera kilka liczb całkowitych i łańcuchów znaków.
+
+2.
+Pobierz i wyświetl drugi element utworzonej tupli
+
+3.
+Napisz tuplę, w której kilkukrotnie powtórzysz liczbę 5.
+Następnie za pomocą odpowiedniej metody na tuplach, w nowej zmiennej policz ilość wystąpień liczby 5
+
+4.
+tupla = (1, 2, "trzy", 4, "pięć")
+Rozpakuj tuplę do osobnych zmiennych i wyświetl ich zawartość
+
+5.
+tupla1 = (1, 2, 3)
+tupla2 = (4, 5, 6)
+
+Połącz dwie powyższe tuple w jedną, następnie napisz dwie zmienne,
+w których za pomocą odpowiedniej metody znajdziesz najmniejszy i największe element w tupli
+
